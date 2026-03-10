@@ -1,0 +1,10 @@
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+streamlit
+streamlit-folium
+pillow
+requests
+googlemaps
+plotly
